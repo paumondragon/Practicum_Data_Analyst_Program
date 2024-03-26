@@ -8,4 +8,4 @@ In it, you can see some of my skills for preprocessing, exploratory data analysi
 
 [Conclusions](https://drive.google.com/file/d/17TmYrB4I9wgi5KoNGe1OAMuuaGeAjhrv/view?usp=sharing)
 
-[Dashboard](https://public.tableau.com/views/CallMeMaybe_16957484570890/CallMeMaybe?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+[Tableau Dashboard](https://public.tableau.com/views/CallMeMaybe_16957484570890/CallMeMaybe?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
